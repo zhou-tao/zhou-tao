@@ -13,11 +13,22 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">
-  👏 Hey, I'm zhou tao!
-</h1>
+<h2 align="center">
+  👏 Hey, I'm Zhou Tao!
+</h2>
 
-## Code Pane
+ - 💼 I'm a Front-end Engineer.
+
+ - 🏠 I'm from Hangzhou, China.
+
+ - 🚀 I usually use my free time to do some interesting projects.
+
+ - 🌈 Welcome to my [blog website](https://zhou-tao.github.io/blog/), thanks.
+
+## commits graph
+![](https://raw.githubusercontent.com/zhou-tao/zhou-tao/output/github-contribution-grid-snake.svg)
+
+## code panel
 <div>
     <img height="165" align="left" src="https://github-readme-stats.vercel.app/api?username=zhou-tao&theme=calm&show_icons=true" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhou-tao&hide=css,Jupyter+Notebook,ruby&theme=calm&langs_count=6&layout=compact" />
