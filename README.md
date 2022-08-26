@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **zhou-tao/zhou-tao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h1 align="center">
+  👏 Hey, I'm zhou tao!
+</h1>
+
+## Code Pane
+<div>
+    <img height="165" align="left" src="https://github-readme-stats.vercel.app/api?username=zhou-tao&theme=calm&show_icons=true" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhou-tao&hide=css,Jupyter+Notebook,ruby&theme=calm&langs_count=6&layout=compact" />
+</div>
