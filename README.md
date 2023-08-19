@@ -1,21 +1,13 @@
-<h1 align="center"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,&nbsp;I'm&nbsp;toryz!;Have&nbsp;a&nbsp;nice&nbsp;coding&nbsp;day~;&center=true&size=36&font=Caveat&color=F43F5E&weight=600"> </a> </h1>
+<h1 align="center"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello!&nbsp;I'm&nbsp;toryz.;Have&nbsp;a&nbsp;nice&nbsp;coding&nbsp;time~;&center=true&size=36&font=Caveat&color=F43F5E&weight=600"> </a> </h1>
 
-I'm a front-end developer from china.
+I'm a front-end developer from CHINA.
 
-<!--
 ### About me
 
- - 💼 I'm a Front-end Engineer.
-
- - 🏠 I'm from Hangzhou, China.
-
- - 🚀 I usually use my free time to do some interesting projects.
-
- - 🌈 Welcome to my [blog website](https://zhou-tao.github.io/blog/), thanks.
-
- -->
+ :heart: [Blog](https://zhou-tao.github.io/blog/) • [Bilibili](https://live.bilibili.com/26452919) • [Juejin](https://juejin.cn/user/3532106417578552) :heart:
 
 ### Languages and Tools
+
 
 ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat)
 ![TypeScript Badge](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=flat)
@@ -42,10 +34,10 @@ I'm a front-end developer from china.
 ![Mysql Badge](https://img.shields.io/badge/Mysql-4479A1?logo=mysql&logoColor=fff&style=flat)
 ![Mongodb Badge](https://img.shields.io/badge/Mongodb-47A248?logo=mongodb&logoColor=fff&style=flat)
 ![Redis Badge](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=fff&style=flat)
-
+<br>
 
 <div>
-    <img height="165" align="left" src="https://github-readme-stats.vercel.app/api?username=zhou-tao&theme=radical&show_icons=true?hide_border=true" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhou-tao&hide=css,Jupyter+Notebook,ruby&theme=radical&langs_count=6&layout=compact" />
+    <img height="165" align="left" src="https://github-readme-stats.vercel.app/api?username=zhou-tao&theme=radical&show_icons=true&border_color=4C4D4F" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhou-tao&hide=css,Jupyter+Notebook,ruby&theme=radical&langs_count=6&layout=compact&border_color=4C4D4F" />
 </div>
 
