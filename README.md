@@ -4,7 +4,7 @@ I'm a front-end developer from CHINA.
 
 ### About me
 
- :heart: [Blog](https://zhou-tao.github.io/blog/) • [Bilibili](https://live.bilibili.com/26452919) • [Juejin](https://juejin.cn/user/3532106417578552) :heart:
+ :heart: [Blog](https://zhou-tao.github.io/blog/) • [Bilibili](https://live.bilibili.com/26452919) • [Juejin](https://juejin.cn/user/3532106417578552) • [为爱发电](https://afdian.net/a/toryz/plan) :heart:
 
 ### Languages and Tools
 
