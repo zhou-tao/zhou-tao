@@ -1,4 +1,4 @@
-<h1 align="center"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello!&nbsp;I'm&nbsp;toryz.;Have&nbsp;a&nbsp;nice&nbsp;coding&nbsp;time~;&center=true&size=36&font=Caveat&color=F43F5E&weight=600"> </a> </h1>
+<h1 align="center"><img src="https://readme-typing-svg.herokuapp.com/?lines=Hello!&nbsp;I'm&nbsp;toryz.;Have&nbsp;a&nbsp;nice&nbsp;coding&nbsp;time~;&center=true&size=36&font=Caveat&color=F43F5E&weight=600"></h1>
 
 I'm a front-end developer from CHINA.
 
