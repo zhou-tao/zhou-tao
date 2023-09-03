@@ -4,7 +4,7 @@ I'm a front-end developer from CHINA.
 
 ### About me
 
- [Blog](https://zhou-tao.github.io/blog/) • [Bilibili](https://space.bilibili.com/363188441) • [Juejin](https://juejin.cn/user/3532106417578552) • [Zhihu](https://www.zhihu.com/people/guo-fu-di-yi-gua-pi) • [Leetcode](https://leetcode.cn/u/zhou-tao-ku/) • [为爱发电](https://afdian.net/a/toryz/plan)
+ [Website](https://toryz-me.netlify.app) • [Bilibili](https://space.bilibili.com/363188441) • [Juejin](https://juejin.cn/user/3532106417578552) • [Zhihu](https://www.zhihu.com/people/guo-fu-di-yi-gua-pi) • [Leetcode](https://leetcode.cn/u/zhou-tao-ku/) • [为爱发电](https://afdian.net/a/toryz/plan)
 
 ### Languages and Tools
 
